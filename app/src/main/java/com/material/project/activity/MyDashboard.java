@@ -1,8 +1,10 @@
-package com.material.project;
+package com.material.project.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.material.project.R;
 
 public class MyDashboard extends AppCompatActivity {
 

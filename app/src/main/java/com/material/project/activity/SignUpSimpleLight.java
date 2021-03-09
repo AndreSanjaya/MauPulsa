@@ -1,4 +1,4 @@
-package com.material.project;
+package com.material.project.activity;
 
 import android.app.ProgressDialog;
 import android.content.Intent;
@@ -18,6 +18,7 @@ import com.google.android.gms.tasks.Task;
 import com.google.android.material.textfield.TextInputEditText;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
+import com.material.project.R;
 
 public class SignUpSimpleLight extends AppCompatActivity {
 
